@@ -1,0 +1,8 @@
+{
+  "name": "Green Heaven Restaurant & Sport Bar",
+  "description": "Green Heaven Restaurant, Pub & Sport Bar in Türkler, Alanya. Mediterranean dining, steaks, craft cocktails, live sports screenings, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

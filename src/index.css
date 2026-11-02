@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --noir-base: #070B09;
+    --forest-racing: #0D1B15;
+    --surface-dark: #12241C;
+    --surface-elevated: #182F25;
+    --warm-ecru: #F5EFE4;
+    --warm-vellum: #E5DDD0;
+    --antique-gold: #C5A059;
+    --champagne-gold: #DFC28D;
+    --muted-bronze: #8F8370;
+    --subtle-border: rgba(197, 160, 89, 0.22);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    background-color: #070B09;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background-color: #070B09;
+    color: #F5EFE4;
+    overflow-x: hidden;
+    letter-spacing: -0.01em;
+  }
+
+  h1, h2, h3, h4, .font-serif-luxury {
+    font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.015em;
+  }
+}
+
+/* Custom Michelin Stately Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #070B09;
+}
+::-webkit-scrollbar-thumb {
+  background: #182F25;
+  border-radius: 3px;
+  border: 1px solid #070B09;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C5A059;
+}
+
+/* Stately Glass and Card Panels */
+.michelin-card {
+  background-color: #0D1B15;
+  border: 1px solid rgba(197, 160, 89, 0.2);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.7);
+}
+
+.michelin-card:hover {
+  border-color: rgba(197, 160, 89, 0.45);
+}
+
+.gold-border {
+  border: 1px solid rgba(197, 160, 89, 0.35);
+}
+
+.gold-glow {
+  box-shadow: 0 0 35px -8px rgba(197, 160, 89, 0.25);
+}
+
+.gold-hairline {
+  background: linear-gradient(90deg, transparent, rgba(197, 160, 89, 0.5), transparent);
+  height: 1px;
+}
+
+.gold-hairline-vertical {
+  background: linear-gradient(180deg, transparent, rgba(197, 160, 89, 0.4), transparent);
+  width: 1px;
+}

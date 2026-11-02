@@ -1,0 +1,1116 @@
+# MASTER PROMPT — GREEN HEAVEN RESTAURANT & PUB & SPORT BAR
+## Premium Restaurant Website — Türkler, Alanya, Türkiye
+
+You are an award-winning luxury hospitality website designer, senior full-stack developer, UX/UI specialist, restaurant brand strategist, SEO expert, and conversion optimization specialist.
+
+Your task is to RESEARCH, DESIGN, AND BUILD a complete, production-quality, visually exceptional website for:
+
+**GREEN HEAVEN RESTAURANT & PUB & SPORT BAR**
+
+Location: Türkler, Alanya, Antalya, Türkiye.
+
+The entire website must be in English.
+
+Do not build a generic restaurant template. Create a distinctive, premium hospitality website that feels professionally designed for an established international restaurant, pub, grill, and sports bar.
+
+The website must include beautiful photography, a full restaurant menu, a working reservation request system, contact information, location, a sports bar section, a gallery, and a polished mobile experience.
+
+IMPORTANT: Research the correct restaurant in Türkler, Alanya. Do not confuse it with other Green Heaven or Greenheaven businesses in central Alanya or elsewhere.
+
+If you can access the internet, research the business before implementing the website. Verify details rather than guessing.
+
+---
+
+# 1. RESEARCH THE REAL BUSINESS FIRST
+
+Before writing the website, research the specific business:
+
+“Green Heaven Restaurant & Pub & Sport Bar, Türkler, Alanya, Antalya, Türkiye”
+
+Research:
+- The correct business name
+- Exact address and map location
+- Official telephone number
+- Official email address, if available
+- Official website, if available
+- Official Instagram and other social media profiles
+- Current opening hours
+- Current restaurant menu
+- Actual menu prices and currency
+- Restaurant exterior and interior
+- Real food and drink photographs
+- Sports bar facilities
+- Guest reviews and public ratings
+- Reservation methods
+- Services and amenities actually offered
+
+Start with these research links:
+
+Google Maps:
+https://www.google.com/maps/search/?api=1&query=Green+Heaven+Restaurant+Pub+Sport+Bar+Turkler+Alanya
+
+Restaurant Guru:
+https://restaurantguru.com/Green-Heaven-Restaurant-and-Pub-and-Sport-Bar-Turkler-Payallar-Belediyesi
+
+Search additional public sources where useful.
+
+A preliminary business listing associates this restaurant with Atatürk Caddesi, Pazar Sitesi No: 5H D:F, Türkler, Alanya, Antalya 07407, and the telephone number +90 539 944 32 04. Treat these as details to verify, not as unquestionable facts.
+
+Do not use information belonging to the similarly named restaurant on Damlataş Caddesi.
+
+Create a clear distinction between:
+1. Verified business information.
+2. Information that could not be verified.
+3. Editable draft content.
+
+Never fabricate the official menu, opening hours, awards, reviews, restaurant facilities, social accounts, or business credentials.
+
+If internet access is unavailable, proceed with the website using clearly editable placeholders for unverified details. Do not stop the project just because information is missing.
+
+---
+
+# 2. BRAND IDENTITY
+
+Brand name:
+
+GREEN HEAVEN
+
+Brand descriptor:
+
+RESTAURANT · PUB · GRILL · SPORT BAR
+
+Brand personality:
+- Premium
+- Welcoming
+- Modern
+- Mediterranean
+- Energetic
+- Social
+- Relaxed luxury
+- International hospitality
+
+Target audience:
+- International tourists
+- English-speaking visitors
+- Couples
+- Families
+- Groups of friends
+- Football fans
+- Holidaymakers
+- Guests looking for dinner, drinks, and entertainment
+
+The website should communicate that Green Heaven is a place where people can enjoy food, drinks, hospitality, and a memorable social atmosphere.
+
+Do not imply luxury prices or exclusive services unless they are supported by actual business information.
+
+## Color palette
+
+Use a refined, sophisticated color system:
+
+- Deep Forest Green: #102A21
+- Emerald Green: #1D4A39
+- Dark Charcoal: #171A18
+- Warm Ivory: #F7F3EA
+- Champagne Gold: #C5A36B
+- Muted Sage: #A6B6A5
+- White: #FFFFFF
+
+Use forest green as the principal brand color, warm ivory for editorial backgrounds, and champagne gold for restrained accents.
+
+Avoid excessive neon colors, cheap-looking sports graphics, oversaturated gradients, and generic AI-generated design patterns.
+
+## Typography
+
+Use a sophisticated editorial serif font for prominent headlines, such as Cormorant Garamond or Playfair Display.
+
+Use Inter, Manrope, or a similar modern sans-serif font for navigation, body copy, forms, and buttons.
+
+Typography must be elegant, readable, and responsive.
+
+Use strong hierarchy, generous whitespace, large headlines, and carefully controlled text widths.
+
+## Overall art direction
+
+The website should feel like a combination of:
+- A premium Mediterranean restaurant
+- A sophisticated contemporary pub
+- An upscale international sports lounge
+
+Use cinematic photography, beautiful composition, subtle animation, premium spacing, tasteful borders, elegant image treatments, and refined interactions.
+
+The website must look professionally art-directed, not automatically assembled from a basic template.
+
+---
+
+# 3. PHOTOGRAPHY AND VISUAL CONTENT
+
+Photography is one of the most important elements of this project.
+
+Use real, high-quality images wherever possible.
+
+## Priority 1: Authentic restaurant photography
+
+Search for actual photographs of Green Heaven Restaurant & Pub & Sport Bar in Türkler.
+
+Look for:
+- The real restaurant exterior
+- Restaurant interior
+- Dining areas
+- Outdoor seating
+- Food and grill dishes
+- Burgers and sharing plates
+- Cocktails and drinks
+- Sports screens and viewing areas
+- Guests and social atmosphere
+
+Use photographs from the correct restaurant's public business listings and official social profiles when available and permitted.
+
+Never confuse photos from the Damlataş Caddesi Greenheaven with the Türkler restaurant.
+
+Do not present unrelated stock images as authentic photographs of this restaurant.
+
+## Priority 2: Licensed supporting photography
+
+If actual venue photographs are unavailable, use legally usable stock photography from:
+
+Unsplash:
+https://unsplash.com/
+
+Pexels:
+https://www.pexels.com/
+
+Search for:
+- Luxury restaurant interior
+- Mediterranean dining
+- Premium grilled steak
+- Gourmet burgers
+- Fresh Mediterranean salads
+- Restaurant cocktails
+- Elegant bar interior
+- Football sports bar
+- Friends watching football
+- Restaurant terrace at sunset
+- Fine dining food photography
+
+Use stock photos only as illustrative photography. Do not misrepresent the restaurant's real appearance.
+
+Verify image URLs and usage permissions where possible. Do not use broken images or unreliable image links.
+
+## Required photography throughout the website
+
+1. A cinematic restaurant hero photograph.
+2. A welcoming restaurant interior photograph.
+3. A restaurant atmosphere photograph.
+4. Premium food photography.
+5. Grill and steak photography.
+6. Burger and sharing-plate photography.
+7. Cocktail and drink photography.
+8. Sports bar and football-viewing photography.
+9. Outdoor dining photography, if representative.
+10. A gallery with multiple relevant images.
+
+Use responsive images, lazy loading below the fold, suitable aspect ratios, and graceful fallbacks.
+
+Use dark image overlays behind hero text when needed for contrast.
+
+Avoid using the same photograph repeatedly across the page.
+
+Do not invent image URLs or use images without checking whether they can be displayed.
+
+---
+
+# 4. COMPLETE WEBSITE ARCHITECTURE
+
+Build a complete single-page restaurant website with elegant navigation and smooth scrolling. If the environment supports multiple pages, create dedicated Menu, Reservations, and Privacy pages where useful.
+
+Required sections:
+
+1. Premium Navigation
+2. Hero
+3. Restaurant Introduction
+4. Signature Highlights
+5. Full Menu
+6. Sports Bar Experience
+7. Food and Drinks Showcase
+8. Reservation System
+9. Photo Gallery
+10. Guest Reviews
+11. Location and Contact
+12. Footer
+
+Every section must be implemented, not merely described.
+
+---
+
+# 5. PREMIUM NAVIGATION
+
+Create an elegant sticky navigation bar.
+
+Left:
+GREEN HEAVEN wordmark.
+
+Center or right:
+- Home
+- About
+- Menu
+- Sports Bar
+- Gallery
+- Contact
+
+Primary CTA:
+“BOOK A TABLE”
+
+Design behavior:
+- Transparent navigation over the hero photograph.
+- Transition to a solid forest-green background when scrolling.
+- Smooth hover effects.
+- Elegant active-section indicator.
+- Premium gold accent on the booking CTA.
+- Responsive mobile navigation with a proper menu toggle.
+- Close the mobile menu after a navigation link is selected.
+- Ensure sufficient contrast and accessible keyboard controls.
+
+The booking CTA must scroll to the reservation form or open the reservation interface.
+
+Never leave navigation links or buttons nonfunctional.
+
+---
+
+# 6. HERO SECTION
+
+Create an immersive, full-width photographic hero.
+
+Use a high-quality restaurant or dining-atmosphere image, preferably an authentic photograph of Green Heaven.
+
+Apply a subtle dark overlay to ensure readability.
+
+Small eyebrow text:
+
+“TÜRKLER · ALANYA · TÜRKİYE”
+
+Main headline:
+
+“GOOD FOOD. GREAT GAMES. UNFORGETTABLE MOMENTS.”
+
+Supporting text:
+
+“Discover great food, refreshing drinks, warm hospitality, and a lively sports-bar atmosphere at Green Heaven in Türkler, Alanya.”
+
+Primary CTA:
+
+“BOOK YOUR TABLE”
+
+Secondary CTA:
+
+“EXPLORE THE MENU”
+
+Add a small scroll indicator.
+
+Optional secondary line:
+
+“YOUR PLACE TO EAT, DRINK & ENJOY THE GAME”
+
+Design requirements:
+- Large, editorial typography.
+- Beautiful image composition.
+- Subtle image zoom or reveal animation.
+- Strong mobile readability.
+- Responsive text sizing.
+- Elegant button hover transitions.
+- No distracting animations.
+- No excessive decorative graphics.
+
+Do not use a generic unrelated restaurant image if an authentic venue photograph is available.
+
+---
+
+# 7. RESTAURANT INTRODUCTION
+
+Section headline:
+
+“WELCOME TO GREEN HEAVEN”
+
+Subheadline:
+
+“Good food, great company, and a place to feel at home.”
+
+Suggested introduction copy:
+
+“Welcome to Green Heaven in Türkler, Alanya. Whether you're planning a relaxed meal, meeting friends for drinks, or looking for a place to enjoy the game, we invite you to discover a welcoming atmosphere and a memorable dining experience.”
+
+Use this as editable draft copy, and adapt it to the restaurant's verified offerings.
+
+Create an elegant two-column composition:
+- Large restaurant photograph
+- Text and concise introduction
+- Small editorial label
+- Refined CTA
+
+CTA:
+“DISCOVER GREEN HEAVEN”
+
+Add three visual highlights:
+- Great Food
+- Drinks & Good Company
+- Sports Bar Atmosphere
+
+Only describe services that the restaurant actually provides.
+
+---
+
+# 8. SIGNATURE EXPERIENCE
+
+Create a premium section with three or four editorial cards.
+
+Possible themes:
+
+## Food Made for Sharing
+“Discover a menu designed to bring people together.”
+
+## Your Favourite Drinks
+“Enjoy a relaxed atmosphere and refreshing drinks with friends.”
+
+## The Game-Day Atmosphere
+“Make match day a shared experience with great company.”
+
+## A Place to Come Together
+“From casual lunches to evening gatherings, make time for memorable moments.”
+
+Use relevant photography, short text, refined image crops, and subtle hover effects.
+
+These descriptions must be adjusted if the research shows that any of the services are not available.
+
+Do not claim fresh ingredients, local sourcing, a professional chef, live music, or special entertainment unless verified.
+
+---
+
+# 9. COMPLETE INTERACTIVE MENU
+
+Create a visually beautiful, easy-to-use restaurant menu.
+
+This is a central feature of the website.
+
+Headline:
+
+“EXPLORE OUR MENU”
+
+Subheadline:
+
+“Discover your favourites and find something delicious to enjoy.”
+
+Research the restaurant's actual current menu before adding official items or prices.
+
+## Menu categories
+
+Use only the categories supported by the real menu. The following categories may be used as a proposed structure, subject to verification:
+
+- Breakfast
+- Starters & Sharing Plates
+- Soups
+- Salads
+- Burgers & Sandwiches
+- Grill & Steaks
+- Chicken Dishes
+- Mediterranean Favourites
+- Seafood
+- Vegetarian Options
+- Kids' Menu
+- Desserts
+- Hot Drinks
+- Cold Drinks
+- Cocktails
+- Beer & Other Alcoholic Drinks, if actually offered
+
+Do not create categories that are inconsistent with the actual restaurant menu.
+
+## Menu card design
+
+Each menu item should support:
+- Dish name
+- Short description
+- Price
+- Currency
+- Food photograph, when available
+- Dietary labels, when verified
+- Optional bestseller label, only if supported by actual data
+
+Use a premium editorial style with clean typography and subtle separators.
+
+Avoid cluttered e-commerce-style cards.
+
+## Menu functionality
+
+Implement:
+- Interactive category filters
+- Search by dish name
+- Responsive layout
+- Clear menu headings
+- Price alignment
+- Mobile-friendly presentation
+- Optional dietary filter, if reliable dietary information is available
+- An easily editable menu data structure
+- Graceful behavior when a category contains no items
+
+Include a button:
+
+“VIEW FULL MENU”
+
+If a real menu PDF exists, link to the verified file.
+
+If no official menu is available:
+- Do not invent a supposedly official menu.
+- Do not invent exact prices.
+- Create an editable example menu dataset.
+- Clearly mark draft items and prices in the source code or admin-facing data.
+- Use placeholder states on the public website until the restaurant's actual menu is entered.
+- Do not publish the words “sample menu” as though they are official restaurant content unless the section is explicitly identified as a preview.
+
+Use Turkish lira (TRY / ₺) only if verified prices are provided. Do not assume that old online prices are current.
+
+Make all menu information editable without redesigning the website.
+
+---
+
+# 10. SPORTS BAR EXPERIENCE
+
+Create a visually powerful sports-bar section.
+
+Headline:
+
+“THE GAME IS BETTER TOGETHER”
+
+Supporting copy:
+
+“Bring your friends, enjoy great food and drinks, and share the excitement of sport in a welcoming atmosphere.”
+
+Use a cinematic sports-lounge photograph featuring a match-viewing environment.
+
+If actual sports screens and viewing facilities are confirmed, showcase them using authentic photographs.
+
+Potential feature cards:
+- Match-Day Gatherings
+- Food & Drinks
+- Group Tables
+- A Welcoming Sports Atmosphere
+
+Primary CTA:
+
+“BOOK FOR MATCH DAY”
+
+Secondary CTA:
+
+“PLAN YOUR VISIT”
+
+Booking behavior:
+- Clicking the CTA opens the reservation form.
+- Preselect the occasion “Sports Match” where appropriate.
+- Allow guests to include a match name or special request.
+
+Do not invent:
+- Live match schedules
+- Broadcast rights
+- TV channel availability
+- Football fixtures
+- Upcoming events
+- Sports subscriptions
+
+Only display specific competitions or fixtures when verified using reliable current information.
+
+If the restaurant does not provide a claimed sports facility, remove that claim and keep the section focused on verified offerings.
+
+---
+
+# 11. FOOD AND DRINKS SHOWCASE
+
+Create a sophisticated, magazine-style photo section.
+
+Headline:
+
+“MADE FOR GOOD TIMES”
+
+Supporting copy:
+
+“Great company, delicious food, and moments worth remembering.”
+
+Use an editorial layout with alternating image sizes.
+
+Possible subjects:
+- Grilled dishes
+- Burgers and fries
+- Sharing plates
+- Fresh salads
+- Desserts
+- Cocktails
+- Restaurant atmosphere
+
+Use real restaurant dishes whenever photographs are available.
+
+If using stock photography, treat the images as visual inspiration rather than proof of specific menu items.
+
+Add subtle image zoom effects on hover.
+
+CTA:
+“EXPLORE THE MENU”
+
+Avoid unnecessary text over every image.
+
+The section should feel refined, visual, and premium.
+
+---
+
+# 12. FULL RESERVATION SYSTEM
+
+The reservation system must be a core feature of the website.
+
+Create an elegant reservation form with a polished user experience.
+
+Section headline:
+
+“LET'S SAVE YOU A TABLE”
+
+Supporting copy:
+
+“Planning a meal, meeting friends, or getting together for the game? Send us your reservation request and let us help you plan your visit.”
+
+## Reservation form fields
+
+1. Full Name
+2. Email Address
+3. Phone Number
+4. Country Code
+5. Reservation Date
+6. Preferred Time
+7. Number of Guests
+8. Seating Preference
+9. Occasion
+10. Special Requests
+11. Privacy Consent
+
+Seating options:
+- Indoor
+- Outdoor
+- No Preference
+
+Only offer seating types that the restaurant actually has.
+
+Occasion options:
+- Lunch
+- Dinner
+- Birthday
+- Family Gathering
+- Sports Match
+- Other
+
+## Form validation
+
+Implement:
+- Required-field validation
+- Valid email format
+- Valid phone input
+- Date restrictions preventing past dates
+- Guest count limits configurable by the restaurant
+- Clear validation messages
+- Keyboard-accessible controls
+- Responsive mobile layout
+- Loading state while sending
+- Error state if submission fails
+- Success state only after the request has actually been submitted
+
+## Reservation request confirmation
+
+After successful submission, display:
+
+“THANK YOU FOR YOUR REQUEST”
+
+“Your reservation request has been received. The restaurant will contact you to confirm availability.”
+
+Show a summary containing:
+- Name
+- Date
+- Time
+- Number of guests
+- Contact details
+
+Do not claim that a table has been booked or confirmed unless the connected reservation system confirms it.
+
+## Real backend integration
+
+Implement the frontend so that it can connect to a real backend.
+
+If the environment supports backend development, create a suitable reservation API and persistent storage.
+
+A production implementation should support:
+- Secure form submission
+- Server-side validation
+- Database storage
+- Duplicate submission prevention
+- Restaurant notification by email
+- Customer confirmation or acknowledgement
+- Basic spam protection
+- Error logging
+- Privacy-conscious data handling
+
+Do not expose API keys or email service credentials in frontend code.
+
+If backend credentials are unavailable, clearly identify the missing configuration and provide a functional WhatsApp reservation fallback.
+
+Do not simulate a successful API response.
+
+## WhatsApp reservation option
+
+Add a secondary button:
+
+“RESERVE VIA WHATSAPP”
+
+Use the verified restaurant phone number in international format.
+
+Build the WhatsApp link with a properly URL-encoded message containing the guest's reservation details.
+
+Suggested message template:
+
+“Hello Green Heaven! I would like to request a table.
+
+Name: [Guest Name]
+Date: [Reservation Date]
+Time: [Preferred Time]
+Guests: [Number of Guests]
+Seating: [Seating Preference]
+Occasion: [Occasion]
+Special Requests: [Special Requests]
+
+Please let me know if a table is available. Thank you!”
+
+Replace the placeholders with the actual form values.
+
+Open the WhatsApp conversation only after the user clicks the button.
+
+Do not claim the message was sent automatically. WhatsApp should open with the prepared message, and the user must send it.
+
+Never expose private guest data in public URLs, analytics, or logs.
+
+---
+
+# 13. PHOTO GALLERY
+
+Headline:
+
+“INSIDE GREEN HEAVEN”
+
+Subheadline:
+
+“A closer look at the atmosphere, food, and experiences.”
+
+Create a premium responsive gallery.
+
+Gallery categories:
+- Restaurant
+- Food
+- Drinks
+- Sports Bar
+- Atmosphere
+
+Only include categories for which relevant images exist.
+
+Gallery features:
+- Responsive editorial grid
+- Image lightbox
+- Previous and next controls
+- Escape-key support
+- Mobile touch support
+- Accessible alt text
+- Image loading fallbacks
+- Smooth opening and closing transitions
+
+Use authentic venue photographs whenever available.
+
+Do not repeatedly reuse the same image.
+
+Do not use photos from a different Green Heaven location.
+
+If real venue photos are limited, mix them with clearly illustrative, licensed supporting photography and prioritize authenticity.
+
+---
+
+# 14. GUEST REVIEWS
+
+Headline:
+
+“SHARED MOMENTS. HAPPY GUESTS.”
+
+Create an elegant guest-review section.
+
+Research publicly available reviews for the correct Türkler restaurant.
+
+If reliable reviews are available:
+- Display accurate excerpts.
+- Preserve the meaning of the original review.
+- Attribute reviews to the correct public source.
+- Display dates only when verified.
+- Display the current overall rating and review count only when verified.
+- Provide a link to the original review source.
+
+Never fabricate customer testimonials, customer names, ratings, review counts, awards, or review quotes.
+
+If reliable review data cannot be retrieved, use a tasteful placeholder with a link to the verified Google Maps listing or Tripadvisor page.
+
+Do not show fake star ratings.
+
+Do not invent a carousel of fictional customer reviews.
+
+---
+
+# 15. LOCATION AND CONTACT
+
+Headline:
+
+“COME AND FIND US”
+
+Supporting copy:
+
+“Planning your visit? Find our location, get in touch, and let us help you make the most of your time in Türkler.”
+
+Use the verified business information gathered during research.
+
+A preliminary listing suggests:
+
+Green Heaven Restaurant & Pub & Sport Bar
+
+Atatürk Caddesi, Pazar Sitesi No: 5H D:F
+
+Türkler, Alanya, Antalya 07407, Türkiye
+
+Preliminary telephone:
++90 539 944 32 04
+
+Verify the address and phone number against the correct business before publishing.
+
+Do not assume an email address or social profile is official without confirmation.
+
+## Required contact features
+
+- Business address
+- Clickable phone number
+- Email link, only if verified
+- Official Instagram link, if verified
+- Google Maps embed or location map
+- “GET DIRECTIONS” button
+- “CALL US” button
+- “BOOK A TABLE” button
+- Opening hours, only if verified
+
+Use a responsive two-column design with contact details on one side and a map on the other.
+
+For the map:
+- Use a verified Google Maps place URL or map embed.
+- Ensure the map points to the Türkler location.
+- Never point to the similarly named Damlataş Caddesi restaurant.
+
+Do not fabricate business contact information.
+
+---
+
+# 16. FOOTER
+
+Create a sophisticated forest-green footer.
+
+Include:
+- GREEN HEAVEN wordmark
+- Short restaurant description
+- Navigation links
+- Menu link
+- Reservation link
+- Contact information
+- Location
+- Official social links, if verified
+- Privacy Policy
+- Cookie Policy, if appropriate
+- Reservation Policy
+
+Copyright:
+
+“© 2026 Green Heaven. All rights reserved.”
+
+Make the footer visually elegant with subtle gold accents and clean typography.
+
+Do not create fake social links.
+
+Legal and privacy policy content must be suitable for the actual business and reviewed before launch.
+
+---
+
+# 17. SEO AND SEARCH VISIBILITY
+
+Optimize the website for international visitors searching for restaurants and sports bars in Alanya and Türkler.
+
+Suggested SEO title:
+
+“Green Heaven Restaurant & Sport Bar | Türkler, Alanya”
+
+Suggested meta description:
+
+“Discover Green Heaven in Türkler, Alanya. Explore the menu, enjoy the restaurant and sports-bar atmosphere, and request a table for your visit.”
+
+Potential keyword themes:
+- Restaurant in Türkler Alanya
+- Sports bar in Türkler
+- Restaurant near Türkler, Alanya
+- Grill restaurant in Alanya
+- Pub in Türkler
+- Restaurant reservations in Alanya
+
+Use keywords naturally.
+
+Implement:
+- Semantic HTML
+- One clear H1
+- Structured heading hierarchy
+- Descriptive image alt text
+- Open Graph metadata
+- Canonical URL placeholder until the final domain is known
+- Sitemap and robots.txt where supported
+- Local business structured data using only verified details
+- Appropriate metadata for sharing
+- Fast-loading images
+- Mobile-first responsive design
+
+Do not invent an official domain, business identifier, or contact information.
+
+Do not promise search rankings.
+
+---
+
+# 18. TECHNICAL IMPLEMENTATION
+
+Build the actual website, not just a visual mockup.
+
+Preferred technology:
+- React
+- TypeScript
+- Tailwind CSS
+- Reusable components
+- Lucide icons
+- Semantic HTML
+- Responsive CSS
+
+If the selected Google AI environment supports a different stack more reliably, use the environment's native supported technology.
+
+Keep the project modular and easy to maintain.
+
+Suggested components:
+- Navbar
+- HeroSection
+- AboutSection
+- ExperienceHighlights
+- MenuSection
+- MenuCategoryFilter
+- MenuItem
+- SportsBarSection
+- FoodGallery
+- ReservationForm
+- WhatsAppReservationButton
+- ReviewsSection
+- LocationSection
+- Footer
+- ImageLightbox
+
+Keep restaurant content separate from layout code.
+
+Use structured data objects for:
+- Menu items
+- Categories
+- Gallery images
+- Contact information
+- Opening hours
+- Social links
+- Reservation options
+
+Use a clear configuration file for information that may change.
+
+Do not hardcode unverified business information across multiple components.
+
+## Accessibility
+
+Implement:
+- Keyboard navigation
+- Visible focus states
+- Accessible labels
+- Suitable text contrast
+- Semantic buttons and links
+- Accessible form errors
+- Reduced-motion support
+- Meaningful image alt text
+
+## Performance
+
+Implement:
+- Lazy loading below the fold
+- Responsive image sizes
+- Optimized image formats when supported
+- Minimal unnecessary dependencies
+- Smooth rendering on mobile
+- Avoidance of layout shifts
+- Appropriate font loading
+- Efficient component rendering
+
+## Security and privacy
+
+Implement:
+- Server-side validation where a backend exists
+- Safe handling of user inputs
+- Secure environment variables
+- No exposed credentials
+- No unnecessary collection of personal information
+- No sensitive information in URLs or analytics
+- Clear privacy consent for reservation requests
+- Appropriate retention and deletion practices for booking data
+
+Do not store personal data in browser storage unnecessarily.
+
+---
+
+# 19. INTERACTION AND DESIGN QUALITY
+
+Every interactive element must work.
+
+Required working interactions:
+- Desktop navigation
+- Mobile navigation
+- Smooth section navigation
+- Menu category filters
+- Menu search
+- Reservation form validation
+- Date selection
+- Guest selection
+- WhatsApp message preparation
+- Phone links
+- Email links
+- Directions links
+- Gallery lightbox
+- Gallery navigation
+- Accessible focus states
+- Booking CTA navigation
+
+Do not include buttons that have no action.
+
+Do not create fake booking confirmations.
+
+Do not show fake live sports schedules.
+
+Do not fabricate availability.
+
+Use tasteful animation:
+- Smooth scrolling
+- Subtle reveal effects
+- Elegant hover transitions
+- Gentle image zoom
+- Sophisticated mobile interactions
+
+The website should remain fast and usable even when animations are disabled.
+
+---
+
+# 20. RESPONSIVE DESIGN
+
+Design mobile-first and test at:
+- Small mobile screens
+- Large mobile screens
+- Tablets
+- Laptops
+- Wide desktop screens
+
+On mobile:
+- Use a compact navigation menu.
+- Keep booking buttons easy to tap.
+- Ensure headlines wrap naturally.
+- Use readable body text.
+- Make menu categories horizontally scrollable where useful.
+- Stack reservation fields appropriately.
+- Avoid horizontal page overflow.
+- Optimize images for smaller screens.
+- Keep contact details clickable.
+- Ensure the gallery lightbox works with touch.
+
+Do not simply shrink the desktop layout.
+
+The mobile site must feel intentionally designed and premium.
+
+---
+
+# 21. FINAL VISUAL QUALITY STANDARD
+
+The finished website should resemble a professionally commissioned website for a premium international hospitality brand.
+
+The visual impression should be:
+- Sophisticated
+- Memorable
+- Photographic
+- Editorial
+- Modern
+- Refined
+- Welcoming
+- Commercially effective
+
+Use a strong visual hierarchy, beautiful image composition, balanced whitespace, polished typography, elegant buttons, and consistent spacing.
+
+Avoid:
+- Generic templates
+- Excessive cards
+- Random color combinations
+- Repeated stock images
+- Overly large paragraphs
+- Fake reviews
+- Invented food prices
+- Fake awards
+- Broken links
+- Fake booking confirmations
+- Excessive animations
+- Unverified claims
+
+Prioritize authenticity and quality over unnecessary effects.
+
+---
+
+# 22. FINAL DELIVERY INSTRUCTIONS
+
+Do not stop at a plan or explanation.
+
+Build the entire website.
+
+Generate the complete project with all required sections, components, styling, functional interactions, and realistic content.
+
+If working inside Google AI Studio:
+- Produce a working preview.
+- Generate all necessary files.
+- Run the website where the environment allows.
+- Fix compilation errors.
+- Fix broken interactions.
+- Ensure the layout works on desktop and mobile.
+- Provide clear setup instructions.
+- Identify any external service configuration required.
+
+Before delivery, test:
+1. All navigation links.
+2. All CTA buttons.
+3. Mobile menu.
+4. Menu category filters.
+5. Menu search.
+6. Reservation form validation.
+7. Date validation.
+8. WhatsApp message generation.
+9. Image loading and fallbacks.
+10. Gallery lightbox.
+11. Responsive layouts.
+12. Map and contact links.
+13. Accessible keyboard interaction.
+14. Error and success states.
+15. Confirmation behavior for reservation requests.
+
+Clearly identify which external services must be configured to enable real reservation storage and email notifications.
+
+If the project environment cannot provide a working backend, deliver the complete functional frontend and a clearly documented integration point rather than pretending a backend exists.
+
+Do not fabricate missing business information. Use editable placeholders for details that need verification.
+
+The final result must be a complete, premium, English-language website for the correct Green Heaven Restaurant & Pub & Sport Bar in Türkler, Alanya, Türkiye.
+
+Build it now.
